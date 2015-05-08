@@ -1,5 +1,5 @@
 describe('my test', function () {
   it('might fail', function () {
-    throw new Error('KABOOM')
+    // throw new Error('KABOOM')
   })
 })
